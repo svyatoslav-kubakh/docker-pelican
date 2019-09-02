@@ -4,6 +4,6 @@ RUN apt-get update && apt-get install -y \
     python3-pip \
     ruby-dev \
     gcc \
-    make
+    make \
  && rm -rf /var/lib/apt/lists/*
 RUN gem install sass
