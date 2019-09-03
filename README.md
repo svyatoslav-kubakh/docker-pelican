@@ -1,3 +1,3 @@
 # docker-pelican
 
-Ubuntu Linux container with python and ruby-sass.
+Ubuntu Linux container with pelican and dependencies (python and ruby-sass)
